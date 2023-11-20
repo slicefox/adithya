@@ -24,7 +24,7 @@ export default function Home() {
       <section>
         <p className='mb-4 text-white'>ABOUT</p>
         <p >
-          I'm a fullstack developer, Experianced in developeing APIs for Mobile and webapps.
+          I&apos;m a fullstack developer, Experianced in developeing APIs for Mobile and webapps.
         </p>
       </section>
     </main>
